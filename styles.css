@@ -1,0 +1,17 @@
+img {
+    height: 500px;
+}
+
+body {
+    background: url("https://images.unsplash.com/photo-1530482817083-29ae4b92ff15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") repeat center center;
+    background-size: 100% 100%;
+    color: lightblue;
+}
+
+projects {
+    color: lightblue;
+}
+
+a {
+    color: lightblue;
+}
